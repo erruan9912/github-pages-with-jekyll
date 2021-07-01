@@ -1,4 +1,4 @@
 ---
-title: "Today is the 100th anniversary of commuinst party of china"
+title: "100th-anniversary"
 date: 2021-07-01
 ---
